@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAM_M9_UF3_Ex1", "DAM_M9_UF3_Ex1\DAM_M9_UF3_Ex1.csproj", "{89C47CC3-430E-402C-B741-97D5623B077A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimuladorClients", "SimuladorClients\SimuladorClients.csproj", "{CC3BC0C5-ADD7-4F84-B396-02F870657196}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{209D190D-F5E9-4592-A257-D77DED8D1A23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89C47CC3-430E-402C-B741-97D5623B077A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89C47CC3-430E-402C-B741-97D5623B077A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89C47CC3-430E-402C-B741-97D5623B077A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89C47CC3-430E-402C-B741-97D5623B077A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC3BC0C5-ADD7-4F84-B396-02F870657196}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC3BC0C5-ADD7-4F84-B396-02F870657196}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC3BC0C5-ADD7-4F84-B396-02F870657196}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC3BC0C5-ADD7-4F84-B396-02F870657196}.Release|Any CPU.Build.0 = Release|Any CPU
+		{209D190D-F5E9-4592-A257-D77DED8D1A23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{209D190D-F5E9-4592-A257-D77DED8D1A23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{209D190D-F5E9-4592-A257-D77DED8D1A23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{209D190D-F5E9-4592-A257-D77DED8D1A23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\Usuari1\Documents\Visual Studio 2015\Projects\DAM_M9_UF3_Ex1\SimuladorClients\bin\Debug\SimuladorClients.exe.config
+C:\Users\Usuari1\Documents\Visual Studio 2015\Projects\DAM_M9_UF3_Ex1\SimuladorClients\bin\Debug\SimuladorClients.exe
+C:\Users\Usuari1\Documents\Visual Studio 2015\Projects\DAM_M9_UF3_Ex1\SimuladorClients\bin\Debug\SimuladorClients.pdb
+C:\Users\Usuari1\Documents\Visual Studio 2015\Projects\DAM_M9_UF3_Ex1\SimuladorClients\obj\Debug\SimuladorClients.csprojResolveAssemblyReference.cache
+C:\Users\Usuari1\Documents\Visual Studio 2015\Projects\DAM_M9_UF3_Ex1\SimuladorClients\obj\Debug\SimuladorClients.exe
+C:\Users\Usuari1\Documents\Visual Studio 2015\Projects\DAM_M9_UF3_Ex1\SimuladorClients\obj\Debug\SimuladorClients.pdb
